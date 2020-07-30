@@ -2,6 +2,7 @@
 
 - 📫 How to reach me: fernando.ftec@gmail.com
 - 💻 I write code mainly in C#
+- ⚡ Check my repos, especially [EntityFrameworkCore DataAccess](https://github.com/ffernandolima/ef-core-data-access) and [DataTablePlus](https://github.com/ffernandolima/data-table-plus)
 
 ![Fernando Luiz de Lima's github stats](https://github-readme-stats.vercel.app/api?username=ffernandolima&count_private=true&theme=vue&show_icons=true)
 
