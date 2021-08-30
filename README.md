@@ -1,4 +1,4 @@
-### Hi 👋, my name is Fernando Luiz de Lima and I work as a Senior .NET Engineer
+### Hi 👋, my name is Fernando Luiz de Lima and I work as a Specialist .NET Engineer
 
 - 📫 How to reach me: fernando.ftec@gmail.com
 - 💻 I write code mainly in C#
